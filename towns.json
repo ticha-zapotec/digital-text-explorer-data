@@ -1,0 +1,142 @@
+[
+  {
+    "id": "t00001",
+    "town_short": "Ayoquezco",
+    "pueblo": "Ayoquezco, Oaxaca, México",
+    "town_modern_official": "Ayoquezco, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.84187939999998, 16.6861497]"
+  },
+  {
+    "id": "t00002",
+    "town_short": "Oaxaca de Juárez",
+    "pueblo": "Oaxaca de Juárez, Oaxaca, México",
+    "town_modern_official": "Oaxaca de Juárez, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.7233419, 17.0680249]"
+  },
+  {
+    "id": "t00003",
+    "town_short": "San Antonio Ocotlán",
+    "pueblo": "San Antonio Ocotlán, Oaxaca, México",
+    "town_modern_official": "San Antonio Ocotlán, Oaxaca, Mexico",
+    "gps_coordinates": "[-98.165343, 16.6479088]"
+  },
+  {
+    "id": "t00004",
+    "town_short": "San Bartholomé Coyotepec",
+    "pueblo": "San Bartholomé Coyotepec, Oaxaca, México",
+    "town_modern_official": "San Bartholomé Coyotepec, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.7065012, 16.9585391]"
+  },
+  {
+    "id": "t00005",
+    "town_short": "San Francisco del Valle",
+    "pueblo": "San Francisco del Valle, Oaxaca, México",
+    "town_modern_official": "San Francisco del Valle, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.599484, 17.0116168]"
+  },
+  {
+    "id": "t00006",
+    "town_short": "San Jerónimo Tlacochahuaya",
+    "pueblo": "San Jerónimo Tlacochahuaya, Oaxaca, México",
+    "town_modern_official": "San Jerónimo Tlacochahuaya, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.5815834326072, 17.0077534727461]"
+  },
+  {
+    "id": "t00007",
+    "town_short": "San Juan del Río",
+    "pueblo": "San Juan del Río, Oaxaca, México",
+    "town_modern_official": "San Juan del Río, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.1639199, 16.8837432]"
+  },
+  {
+    "id": "t00008",
+    "town_short": "San Mateo Macuilxóchitl",
+    "pueblo": "San Mateo Macuilxóchitl, Oaxaca, México",
+    "town_modern_official": "San Mateo Macuilxóchitl, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.54044529999999, 17.0162208]"
+  },
+  {
+    "id": "t00009",
+    "town_short": "San Miguel Etla",
+    "pueblo": "San Miguel Etla, Oaxaca, México",
+    "town_modern_official": "San Miguel Etla, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.78139550000003, 17.2123639]"
+  },
+  {
+    "id": "t00010",
+    "town_short": "San Miguel Talistaca",
+    "pueblo": "San Miguel Talistaca, Oaxaca, México",
+    "town_modern_official": "San Miguel Talistaca, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.6361253, 17.0454457]"
+  },
+  {
+    "id": "t00011",
+    "town_short": "San Pedro el Alto",
+    "pueblo": "San Pedro el Alto, Oaxaca, México",
+    "town_modern_official": "San Pedro el Alto, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.4722989, 16.0362827]"
+  },
+  {
+    "id": "t00012",
+    "town_short": "San Sebastián Teitipac",
+    "pueblo": "San Sebastián Teitipac, Oaxaca, México",
+    "town_modern_official": "San Sebastián Teitipac, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.6137996, 16.9520218]"
+  },
+  {
+    "id": "t00013",
+    "town_short": "Santa Catarina Quiané",
+    "pueblo": "Santa Catarina Quiané, Oaxaca, México",
+    "town_modern_official": "Santa Catarina Quiané, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.73920570000001, 16.879985]"
+  },
+  {
+    "id": "t00014",
+    "town_short": "Santa María La Asunción Etla",
+    "pueblo": "Asunción Etla, Oaxaca, México",
+    "town_modern_official": "Asunción Etla, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.8193986, 18.1080748]"
+  },
+  {
+    "id": "t00015",
+    "town_short": "Santo Domingo del Valle",
+    "pueblo": "Santo Domingo del Valle (Villa Díaz Ordaz), Oaxaca, México",
+    "town_modern_official": "Santo Domingo del Valle (Villa Díaz Ordaz), Oaxaca, Mexico",
+    "gps_coordinates": "[-96.720969, 17.0738027]"
+  },
+  {
+    "id": "t00016",
+    "town_short": "Santo Domingo Etla",
+    "pueblo": "Santo Domingo Etla, Oaxaca, México",
+    "town_modern_official": "Santo Domingo Etla, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.801117, 17.1921075]"
+  },
+  {
+    "id": "t00017",
+    "town_short": "Teotitlán del Valle",
+    "pueblo": "Teotitlán del Valle, Oaxaca, México",
+    "town_modern_official": "Teotitlán del Valle, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.51844919999996, 17.0302532]"
+  },
+  {
+    "id": "t00018",
+    "town_short": "Theozapotlan",
+    "pueblo": "Theozapotlan, Oaxaca, México",
+    "town_modern_official": "Theozapotlan, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.7499775, 16.9524083]"
+  },
+  {
+    "id": "t00019",
+    "town_short": "Tlacolula de Matamoros",
+    "pueblo": "Tlacolula de Matamoros, Oaxaca, México",
+    "town_modern_official": "Tlacolula de Matamoros, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.478268, 16.9550256]"
+  },
+  {
+    "id": "t00020",
+    "town_short": "Villa de Zaachila",
+    "pueblo": "Villa de Zaachila, Oaxaca, México",
+    "town_modern_official": "Villa de Zaachila, Oaxaca, Mexico",
+    "gps_coordinates": "[-96.7529926, 16.944817]"
+  }
+]

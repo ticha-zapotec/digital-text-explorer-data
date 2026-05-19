@@ -1,10 +1,12 @@
 [
-  "Bill of Sale",
   "Testament",
+  "Bill of Sale",
+  "Unknown",
   "Land Deed",
+  "Land Description",
   "Petition",
   "Receipt",
-  "Unknown",
   "Complaint",
-  "Land Description"
+  "Spiritual Text",
+  "Grammatical Text"
 ]

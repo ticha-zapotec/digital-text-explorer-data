@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "csvtojson": "^2.0.14",
+    "google-spreadsheet": "^5.2.0",
     "normalize-path": "^3.0.0"
   }
 }

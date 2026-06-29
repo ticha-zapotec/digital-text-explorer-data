@@ -13,6 +13,8 @@ This repository contains, processes, and publishes metadata for the Ticha Docume
     > NOTE: Changes should ***always*** be made in Google Sheets and then CSVs redownloaded; changes should not be made directly to these files.
 - `html/` 
   + contains HTML linguistic analysis files exported from FLEX and organized by document for digital editions
+- `json/`
+  + this folder should be empty; it is where derivative JSON files will be generated
 - `scripts/`
   + contains utility JS scripts for managing the data
 

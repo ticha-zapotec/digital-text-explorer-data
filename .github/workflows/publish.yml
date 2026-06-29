@@ -10,7 +10,7 @@ jobs:
       - name: Checkout repository   
         uses: actions/checkout@v2
       - name: Ingest JSON
-        run: npm run ingest
+        run: npm install && npm run ingest
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

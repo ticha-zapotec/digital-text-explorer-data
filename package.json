@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "iiif-monitor": "node ./scripts/iiif-monitor.mjs",
     "download": "node ./scripts/download.mjs",
     "index": "node ./scripts/index.mjs",
     "jsonify": "node ./scripts/jsonify.mjs",

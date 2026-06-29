@@ -1,4 +1,4 @@
-name: Publish metadata to GitHub Pages  
+name: GitHub Pages Metadata
 on:
   push:
     branches:
